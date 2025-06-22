@@ -1,2 +1,1 @@
-# iris_eda
-This project explores the Iris dataset using Google Colab. It demonstrates basic exploratory data analysis (EDA) with Python’s pandas and matplotlib libraries, including statistical summaries and visualizations to understand the data distribution.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UmeshYenduru/iris_eda/blob/main/iris_eda.ipynb)
